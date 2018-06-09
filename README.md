@@ -8,4 +8,4 @@ Its functions:
 4) Brutforce Ftp
 5) Brutforse SSh
 6) Brutforse mail Accounts
-# Donate BTC: 1K96gLXbmgRhE7DsU33HFBuvohDgei5Z22
+# Donate BTC bitcoincash:qpy9ygg66gj7l7khzrmkjax3petw8ln6qsfug9akfe
